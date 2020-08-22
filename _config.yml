@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
-project_name: Audun Meltzer
-github:
-  is_project_page: false
+title: Audun Meltzer
+
+author:
+  name: Audun Meltzer
